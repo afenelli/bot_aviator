@@ -1,1 +1,1 @@
-worker: python bot_aviator.py
+web: python bot_aviator.py
